@@ -1,4 +1,4 @@
-**This is a test hotel's 2d model project**
+<h1>**This is a test hotel's 2d model project**<h1/>
 
 To start clone this project, run `npm i` and `npm start`.
 
