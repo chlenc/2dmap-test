@@ -9,9 +9,7 @@ class App extends Component {
         return (
             <div className="App">
                 <img src={require('./image.jpg')} alt={'test'}/>
-                <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="1279.5px" height="853.5px">
+                <svg xmlns="http://www.w3.org/2000/svg" width="1279.5px" height="853.5px">
                     {ranges["testHotel"].map(range =>
                         <path
                             fillRule="evenodd"
